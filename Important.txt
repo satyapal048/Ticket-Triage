@@ -1,0 +1,5 @@
+Git Repo Link - https://github.com/satyapal048/ticket-triage.git
+This project fulfills all functional and engineering requirements including Docker setup, local heuristic NLP logic, custom security escalation rule, unit tests, and reflection section.
+Name - satyapal
+Roll no - 2K22/SE/158
+B.Tech - Software Engineering 

@@ -1,0 +1,24 @@
+{
+  "name": "ai-ticket-triage-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Ticket Triage app",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "express-rate-limit": "^8.2.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
