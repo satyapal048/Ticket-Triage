@@ -1,4 +1,7 @@
 # 🎫 AI Ticket Triage
+Name - satyapal
+Roll no - 2K22/SE/158
+B.Tech - Software Engineering 
 
 A complete full-stack application that automatically categorizes and prioritizes user support tickets using local NLP heuristic logic, without relying on external LLM APIs.
 
